@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands mad petition to the Right Honourable the, &amp;c. The humble petitions of above 12. millions of well-affected (before so ill distracted) people of all sorts, ages, sexes and sises within the kingdome of England and dominion of Wales, all desiring the enlargement of Bedlam, and other respective place in the cities of London and Westminster, with other cities, towns, and boroughs, throughout the kingdome and dominion aforesaid. Presented to the Houses on Thursday, August 26. 1647.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83972</idno>
+            <idno type="STC">Wing E2993</idno>
+            <idno type="STC">Thomason E404_30</idno>
+            <idno type="STC">ESTC R201863</idno>
+            <idno type="EEBO-CITATION">99862352</idno>
+            <idno type="PROQUEST">99862352</idno>
+            <idno type="VID">114509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114509)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands mad petition to the Right Honourable the, &amp;c. The humble petitions of above 12. millions of well-affected (before so ill distracted) people of all sorts, ages, sexes and sises within the kingdome of England and dominion of Wales, all desiring the enlargement of Bedlam, and other respective place in the cities of London and Westminster, with other cities, towns, and boroughs, throughout the kingdome and dominion aforesaid. Presented to the Houses on Thursday, August 26. 1647.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>betwixt Bishops-gate-street and More-fields,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>in the yeare of Englands recovery of her madnesse, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Fiction --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114509:1" rendition="simple:additions"/>
+            <p>ENGLANDS Mad Petition To the Right HONOURABLE The, &amp;c.</p>
+            <p>The Humble Petitions of above 12. Millions of Well-affected (before ſo ill di<g ref="char:EOLhyphen"/>ſtracted) people of all ſorts, Ages, Sexes and ſiſes within the Kingdome of <hi>England</hi> and Dominion of <hi>Wales,</hi> all deſiring the enlargement of <hi>Bedlam,</hi> and o<g ref="char:EOLhyphen"/>ther reſpective place in the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> with other Cities, Towns, and Boroughs, throughout the Kingdome and Dominion afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>Preſented to the Houſes on Thurſday, <hi>Auguſt</hi> 26. 1647.</p>
+            <p>
+               <add>Aug: 27</add> Printed at <hi>London</hi> betwixt <hi>Biſhops-gate-ſtreet</hi> and <hi>More<g ref="char:EOLhyphen"/>fields,</hi> in the yeare of <hi>Englands</hi> recovery of her madneſſe, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:114509:2"/>
+            <pb n="1" facs="tcp:114509:2"/>
+            <head>To the Right Honourable the, &amp;c. The Humble Petition, &amp;c.</head>
+            <head type="sub">Humbly ſheweth,</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas wee your Honours poore Petitioners, having moſt lamentably ſerved more then a Pen<g ref="char:EOLhyphen"/>tarquie (even almoſt the time of an Apprentiſhip) to the Lunary profeſſion (or Art Mad-cap) where<g ref="char:EOLhyphen"/>in we have beene ſo miſerably proficient, that <hi>He<g ref="char:EOLhyphen"/>roſtrates Franciſcus Gaticus, Balthazar de Caſtro, Diego Engrenis,</hi> and even <hi>Adam Bolacius</hi> himſelfe (ſo celebrated by Antiquity) were but meere novices to us; wee doe out-ſtrip in mad hu<g ref="char:EOLhyphen"/>mours all our Predeceſſours; whatſoever mad exploits have bin reported as done heretofore, to ours will hold no parallel; wee have exceedingly ſurpaſſed all the mad ſhavers, mad Compani<g ref="char:EOLhyphen"/>ons, mad Blades, mad Rognes, mad Raſcalls, mad <hi>Toms,</hi> mad <hi>Maudlins,</hi> mad <hi>Beſſes,</hi> and mad-caps what or whoſoever: How we have juſtifi'd the premiſes in theſe late paſt yeares, hath been ſufficiently, and if it be poſſible, more then apparent to all Chri<g ref="char:EOLhyphen"/>ſtendome; <hi>England</hi> was the Theater for action, and the gazing (and admiring world) the Spectators; were ever any of our Predeceſſours ſo franticke, as to engage Lives and Fortunes in as unnaturall warre againſt an unequalled vertuous King, our dread, undoubted, and Anointed Soveraigne? Were ever Turkes, Tartars, or Caniballs, ſo barbarouſly inclined as wee have been, making no eſteeme not difference between blood and blood; kindred or alien? Hath not the father murdered the ſon, the ſonne the father; brother hath (<hi>Gaine</hi>-like) kill'd brother, the unckle ſlaine his nephew, and the nephew his Unckle, and thought they had done good and godly ſervice? Have wee not beene ſo franticke, that without any legall conſideration or ſuſpi<g ref="char:EOLhyphen"/>tion of eyes or thoughts; wee have madly diſlocated a principall
+<pb n="2" facs="tcp:114509:3"/>Joynt of our Parliament (and indeed next to the head) and yet we are ſo conſoperated in our Lethargy, that wee have not ſo much as mention'd it for a fault, and that is the Places and Vo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of the Biſhops, for ever ſince Parliaments have beene uſed in <hi>England,</hi> all till this preſent) have conſiſted of Lords Spirituall and Temporall, and the Houſe of Commons, but now theſe ſpi<g ref="char:EOLhyphen"/>rituall Lords (which are the Biſhops) are not once nam'd (nor thought on) and yet wee pretend for a legall and compleat Par<g ref="char:EOLhyphen"/>liament, is not this extreame madneſſe? what is, if this bee not, when ſuch a notorious thing as this is, ſhall paſſe by (and through) ſo many eyes and eares, without taking notice of?</p>
+            <p>In the next place, have we not madly thruſt out of doores our ancient and Orthodox Faith, and both willingly &amp; fooliſhly lent our hands to pull in unheard of Noveliſme, Phantaſtick profa<g ref="char:EOLhyphen"/>nation, and even Mimicie in Divine Worſhip? Wee have tran<g ref="char:EOLhyphen"/>ſlated the Epiſcopall Cathedra, to the Coblers Chayre; the Doctors Pulpit, to the Coopers Tub; the Eaſt and Weſt end of the Church, to the Taylors Tables end; and the Weaver, (whoſe ſhuttle runnes through his braines as well as his Loome) takes upon him to bee a wreſter of Gods Word (out of its proper ſence) becauſe it ſhall bee like himſelfe, void of good ſence: The Plebean will bee a Predicater of higheſt Myſteries; and the Sylveſtrick Swaine is become a Reverend Rabin of Re<g ref="char:EOLhyphen"/>velations.</p>
+            <p>Nay, moreover (Right Horrible) wee your poore Petitio<g ref="char:EOLhyphen"/>ners are ſo egregiouſly infatigated, and ſo ſtrenuouſly infatuated with the prepoſterous vaine of Diabolicall zeale, that to blaſ<g ref="char:EOLhyphen"/>pheme God ſeriouſly, and rayle againſt our Soveraigne ſincere<g ref="char:EOLhyphen"/>ly, hath inſtead of Atheiſme and Treaſon, beene accounted (a<g ref="char:EOLhyphen"/>mong us ſpirituall mad people) for Religious duties; our wo<g ref="char:EOLhyphen"/>men (a thing unexampled in any precedent age, whom the A<g ref="char:EOLhyphen"/>poſtle prohibits ſpeaking in the Church) are growne ſo impu<g ref="char:EOLhyphen"/>dently mad, that they aſſume the office of Preaching; ſo that it well appeares (Right Horrible) that betweene the Incubus and the Succubus, (thoſe male and female Devils) theſe Predicating Tradeſ-men, and theſe diſ-illuminated women were begotten; and although <hi>Humphrey</hi> thinkes the time too long to bee barr'd from <hi>Jones</hi> bed, for the month of her lying in, but makes uſe of
+<pb n="3" facs="tcp:114509:3"/>(in the intrim) his double-diligent Nurſe, or his Neighbours wives aſſiſtance, under the pretence of a tollerated Gander<g ref="char:EOLhyphen"/>month, yet hee (and indeed all wee mad people) thinkes it a ſmall matter to ſeperate gracious <hi>Charles</hi> and <hi>Mary,</hi> not for a month, or months, but for whole yeares; what madneſſe ever equall'd this? What Spirit but the Devill can dictate ſuch hor<g ref="char:EOLhyphen"/>rid and miſchievous thoughts as wee have been poſſeſt with (and hope to be diſpoſſeſt of by your pious endeavours?)</p>
+            <p>Wee old men and women, whoſe age ſhould admit of no no<g ref="char:EOLhyphen"/>veltie, are as farre intoxicated with the ſupine Sallad of this il<g ref="char:EOLhyphen"/>literate Lettice, that forgetting all antiquity (and the example of our prudent Predeceſſours) wee have (as being indeed turn'd children againe) as greedily ſuckt in the Milke of Schiſme, and overthrow of Government, as the youngeſt addle braine of them all. Wee of the middle ſort (of men) have madly arm'd our ſelves, madly marcht into the Field, madly waged Battell, madly kill'd one another, not regarding (as before is mentioned) ei<g ref="char:EOLhyphen"/>ther Proximity, Conſanguinity, Affinity, Alliance, Chriſtianity, Vicinity, or Naturall Affection. Wee the women, both old, middle aged, and young, have with our tongues beene as active (as men with their hands) to draw the cords of ruine upon the whole Nation, as if wee had beene to perſwade all Chriſtendome to take up Armes (againſt Chriſts) and our common enemy the Turke. Wee the younger ſort of men, Boyes, Apprentices, and Striplings, (eſpecially in and about the Cities of <hi>London,</hi> and <hi>Weſt.</hi> Villages adjacent, and Lines of Communication, have madly put our ſelves forward by the notion and example of mad, blood-thirſty Reformadoes and Commanders, to ſet the ſaid City, and conſequently the whole Kingdome on a flame of a new and moſt horrible deſtructive warre.</p>
+            <p>Briefely (right Horrible) we your Petitioners, of all Ages, Sorts, Sizes, Sexes, Sects, and Complexions, have madly involved our ſelves in an (almoſt) univerſall Lunacie and Apoſtaſie from God and our King; from Religion, to Senſualitie; from Vertue, to Vice; from Chaſtitie, to Lubricitie; from Chriſtian Charitie, to Heatheniſh Crueltie; from Unitie, to Singularitie; from Pietie, to Hypocriſie; from Veritie, to Vanitie; from Humili<g ref="char:EOLhyphen"/>tie, to Superbitie; from Moderation, to Oſtentation; from the
+<pb n="4" facs="tcp:114509:4"/>right underſtanding of Divine Myſteries, to blind Zeale with<g ref="char:EOLhyphen"/>out knowledge; and from the Path of Heaven, to the Wayes of Hell, eternall Death and Deſtruction. This our deplorable Condition, be pleaſed with your Power and Charitie rightly to conſider; and weighing in the Ballance of your unqueſtionable (and infallible) Intelects, every Part, Parcell, Branch, and Bud of the premiſes, vouchſafe to let our mad Petition finde as fa<g ref="char:EOLhyphen"/>vourable acceſſe to your Honours, as many Petitions (in the like nature) have found heretofore: The ſumme of all our de<g ref="char:EOLhyphen"/>ſires is, that you will take into mature conſideration (and com<g ref="char:EOLhyphen"/>miſeration) That whereas a great multitude of people, of both Sexes, commonly called Mad people (but nothing neere ſo Mad as wee) are confined in an Hoſpitall, betweene <hi>Biſhops-gate-ſtreet</hi> and <hi>More-fields,</hi> vulgarly named <hi>Bedlam</hi> (or <hi>Bethlem</hi>) that you will be pleaſed to turne them out into the wide world, and let us (for ſo many as the ſayd Hoſpitall can containe) to be poſ<g ref="char:EOLhyphen"/>ſeſſed of their roomes: for indeed the caſe is plaine (and there<g ref="char:EOLhyphen"/>fore conſiderable) that thoſe people (for the moſt part) grew diſtracted through ſuper-abundant Love, not finding a r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cipro<g ref="char:EOLhyphen"/>call correſpondencie in affection; but (wretched) wee are Mad through ſuperabundance of Malice, wee moſt madly and deſpe<g ref="char:EOLhyphen"/>rately hating, maligning, abuſing (both with Tongue and Hand) a gracious, loving, mercifull, pious, and prudent King (the mir<g ref="char:EOLhyphen"/>ror of Monarchs and example of Princes) who all this too long time of our hayre-brayn'd Diſtraction, hath wooed and invited us to his Highneſſe love, patiently expecting the returning of our Sences to their offices, and us to our juſt obedience: but all to little, or no purpoſe; we were madly reſolv'd, and ſo went madly on, to our owne and the hazard of the whole Kingdomes Ruine.</p>
+            <p>Furthermore, be pleaſed to take notice, that the ſaid Hoſpi<g ref="char:EOLhyphen"/>tall being very ſmall (in reſpect of our vaſt number) to give a charitable Purge to all the Priſons in and about the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> the Villages adjacent, and Lines of Communication, and alſo to all other reſpective Priſons throughout the Kingdome of <hi>England</hi> and the Dominion of <hi>Wales,</hi> wherein are moſt unnaturally and cruelly incloſed and detained many honeſt, ſober, wiſe, diſcreet, religious, and ver<g ref="char:EOLhyphen"/>tuous
+<pb n="5" facs="tcp:114509:4"/>Knights, Eſquires, Gentlemen, and others of good ranke and qualitie, onely (and ſolely) for their integritie and loyaltie to God and his Anoynted; theſe wee would likewiſe (by the aforeſaid Purge) have relaxed, diſcharged, and reſtored both to their Liberties and Livelyhoods, wee madly poſſeſſing their pla<g ref="char:EOLhyphen"/>ces: notwithſtanding the premiſſes, wee doe deſire (in this ge<g ref="char:EOLhyphen"/>nerall worke of Juſtice and Mercie) to except ſome who are now in Priſon (among thoſe ſober men aforeſaid) that are al<g ref="char:EOLhyphen"/>together (if not madder) as mad as the maddeſt of us all, and chiefely (as the Chiefe indeed) <hi>John Lilburne,</hi> who being a mad Lieutenant-Colonel alreadie, wee deſire to make Commander in Chiefe of all our Mad multitude.</p>
+            <p>Laſtly, when by theſe Chaynes of Affliction wee ſhall be re<g ref="char:EOLhyphen"/>ſtor'd to our loſt Wits, that then you will be mildly pleaſed to accept of a ſober Petition for our loſt Rights, Religion, Lawes, Liberties, and Priviledges, all which wee (miſerable mad people) have purchas'd with the loſſe of our Wits, and Loyaltie, and ſome of us, Lims and Livings.</p>
+            <p>This if your Wiſdomes ſhall thinke convenient to grant, it will be a Beacon to your Charitie, a Lanthorne to your Lenitie, a Mirror of your M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcie, and a Trumpet to your Fame; and wee your poore Petitioners (as in dutie obliged) ſhall be ever be<g ref="char:EOLhyphen"/>holding to your Clemencie, and alwayes pray for your encreaſe of Grace, and Loyaltie towards God and <hi>Caeſar,</hi> and an equall, legall, and charitable diſtribution of all the Wealth which you (by your Wit and Subtletie) have gotten of us fooliſh Mad People, &amp;c.</p>
+         </div>
+         <div type="poetic_postscript">
+            <head>A Poſtſcript concerning the deliverie and Receit of the foreſaid Mad Petition.</head>
+            <lg>
+               <l>No ſooner this Petition came unto</l>
+               <l>the hands of thoſe to whom it was preſented,</l>
+               <l>But all of them (as well the high as low)</l>
+               <l>began to rave; Thus being diſcontented,</l>
+               <l>They gave this Anſwer: Why, you frantick Elves,</l>
+               <l>Sue you to us, who are ſtark mad our ſelves?</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:114509:5"/>
+               <l>Have you not danced after our mad Pipe?</l>
+               <l>have we not beene examples to you all?</l>
+               <l>Thinke you, if that our wits were ſound and ripe,</l>
+               <l>we could our ſelves ſtand by, and ſee you fall?</l>
+               <l>No, no, <hi>Plebeians,</hi> wee'l no further wrong you,</l>
+               <l>We are as mad as he that's mad'ſt among you.</l>
+            </lg>
+            <lg>
+               <l>Yet be you comforted (and ſo are wee)</l>
+               <l>hoping we ſhortly ſhall our wits recover;</l>
+               <l>Wee ſomething now regard his Majeſtie,</l>
+               <l>ſo let the people doe all <hi>England</hi> over:</l>
+               <l>Then, by Gods Bleſſing, (to our joy and gladneſſe)</l>
+               <l>Wee ſhall ſee <hi>England</hi> cured of her Madneſſe.</l>
+            </lg>
+            <lg>
+               <l>By th'influence of that bright Northern Star,</l>
+               <l>which now auſpiciouſly upon us ſhines,</l>
+               <l>Mad <hi>England</hi> ſhall regaine her wits ſo far,</l>
+               <l>that all ſhall prayſe his Name, who thus inclines</l>
+               <l>The hearts of Subjects to their Soveraign Prince;</l>
+               <l>O ſuch a Cure, Mad <hi>England</hi> lack'd long ſince.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
